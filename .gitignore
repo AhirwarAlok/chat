@@ -1,0 +1,11 @@
+# Editor configuration files
+.vscode
+
+# Python virtual environment
+venv
+
+# Python cache files
+*.pyc
+
+# DB and binary files
+db.sqlite3
